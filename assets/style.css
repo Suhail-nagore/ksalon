@@ -1,0 +1,392 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main {
+    width: 100%;
+    position: relative;
+}
+.container service-section .headings h4 {
+    padding: 4px;
+    text-align: center;
+}
+.box {
+    border: 2px solid #000;
+    justify-content: space-evenly;
+    display: flex;
+}
+.Gallery-img {
+    border-radius: 12px;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.35);
+}
+.Gallery-img-big {
+    border-radius: 12px;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.35);
+}
+.form-label {
+    margin-bottom: 3px;
+}
+.form-control {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.05);
+    font-size: 14px;
+    height: 50px;
+    padding: 0 20px;
+}
+.acadmey-list ul li{font-size: 18px;
+    padding: 7px;
+    font-family: "Jost", sans-serif;
+    color:#000000;
+    line-height: 28px;}
+.img-4 {
+    object-fit: cover;
+    height: 200px;
+}
+.shop-account label, label{font-family: "Jost", sans-serif;}
+#p-50,
+.p-50 {
+    padding: 50px 0px;
+}
+
+.form-section {
+    border: 2px solid #000;
+    padding: 20px 100px;
+}
+.brands-lgo {
+    padding: 15px 0 30px;
+    color: #fff;
+}
+.brands-lgo h2 {
+    padding: 25px;
+    font-weight: bold;
+}
+.deal-box {
+    padding: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.15);
+}
+.comparison-slider-wrapper .comparison-slider .divider::before {
+    background-color: transparent;
+}
+.comparison-slider-wrapper .comparison-slider .divider::after {
+    background-color: transparent;
+    color: #772525;
+    margin: 0;
+    transform: translate(-50%, -50%);
+}
+@import url("https://fonts.cdnfonts.com/css/anglecia-pro-display");
+.text-primary,
+.color,
+ .color1 {
+    color: #d2c0ac !important;
+}
+.color2 {
+    color: #492609 !important;
+}
+.color3 {
+    color: #772525 !important;
+}
+.color4 {
+    color: #59593b !important;
+}
+/*.bg-primary, .bg-1 {*/
+/*    background: #d2c0ac !important;*/
+/*}*/
+.bg-primary, .bg-1 {
+    background: #d3c1ad !important;
+}
+.bg-2 {
+    background: #492609 !important;
+}
+.bg-3 {
+    background: #772525 !important;
+}
+.bg-4 {
+    background: #58583a !important;
+}
+.btn-info {
+    background: #492609;
+    font-family: "Anglecia Pro Display", sans-serif !important;
+    color: #d2c0ac;
+    border-radius: 0;
+    border: none;
+}
+.btn-info:hover {
+    background: #772525;
+    color: #d2c0ac;
+    border: none;
+}
+.btn-primary {
+    font-family: "Anglecia Pro Display", sans-serif !important;
+    background: #482508;
+    color: #FFFFFF;
+    border-radius: 0;
+    border: none;
+}
+.btn-primary:hover {
+    background: #59593b;
+    color: #d2c0ac;
+}
+.btn-warning {
+    font-family: "Anglecia Pro Display", sans-serif !important;
+    background: #d2c0ac;
+    color: #772525;
+    border-radius: 0;
+    border: none;
+}
+.btn-warning:hover {
+    background: #772525;
+    color: #d2c0ac;
+}
+.sec-content .text-white p,  .text-white p{
+    color:#ffffff !important;
+}
+
+.btn-check:active + .btn-primary:focus, .btn-check:checked + .btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show > .btn-primary.dropdown-toggle:focus
+{
+    box-shadow: 0 0 0 .25rem rgba(210, 192, 172, 0.79) !important;
+}
+.btn-check:active + .btn-primary, .btn-check:checked + .btn-primary, .btn-primary.active, .btn-primary:active, .show > .btn-primary.dropdown-toggle
+{
+    color: #fff !important;
+    background-color: #59593b !important;
+    border-color: #59593b !important;
+}
+.btn-check:focus + .btn-primary, .btn-primary:focus
+{
+    color: #fff !important;
+    background-color: #59593b !important;
+    border-color: #59593b !important;
+    box-shadow: 0 0 0 .25rem rgba(210, 192, 172, 0.79) !important;
+}
+.btn-check:active + .btn-info, .btn-check:checked + .btn-info, .btn-info.active, .btn-info:active, .show > .btn-info.dropdown-toggle
+{
+    color: #d2c0ac !important;
+    background-color: #772525 !important;
+    border-color: #772525 !important;
+}
+.btn-check:focus + .btn-info, .btn-info:focus
+{
+    color: #d2c0ac;
+    background-color: #772525;
+    border-color: #772525;
+    box-shadow: 0 0 0 .25rem rgba(119, 37, 37, 0.79);
+}
+.btn-check:active + .btn-info:focus, .btn-check:checked + .btn-info:focus, .btn-info.active:focus, .btn-info:active:focus, .show > .btn-info.dropdown-toggle:focus
+{
+    box-shadow: 0 0 0 .25rem rgba(210, 192, 172, 0.79) !important;
+}
+.owl-carousel .owl-item img.img-certificate{width:80px;margin:0 auto;text-align: center}
+p,
+p span ,.p{
+
+    font-size: 18px;
+    font-family: "Jost", sans-serif;
+    line-height: 28px;
+}
+section .jost, h3.jost{font-family: "Jost", sans-serif !important;}
+.acadmey-list li {font-size: 18px;line-height: 28px; list-style: disc !important;}
+.ul{list-style: none !important;}
+h1,
+h2,
+h3,
+h4,
+h5,
+.nav-link,
+h6 {
+
+    font-family: "Anglecia Pro Display", sans-serif !important;
+}
+body,
+p,
+span,
+a,
+b,
+ul,
+li,
+* {
+    font-size: 18px;
+    font-family: "Jost", sans-serif;
+}
+.header-transparent {
+    position: absolute;
+    width: 100%;
+} /* Initial styles for
+transparent navbar */
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .show > .nav-link {
+    color: #d2c0ac !important;
+}
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .show > .nav-link {
+    color: #fff !important;
+    font-size: 16px !important;
+}
+.btn dropdown-toggle {
+    color: #fff !important;
+    font-size: 12px;
+}
+.btn-warning {
+    border-color: #fff !important;
+    background-color: #fff !important;
+    color: #000 !important;
+    position: absolute;
+    font-size: 16px !important;
+    width: 150px;
+    z-index: 999;
+    top: 10%;
+    text-align: center;
+    left: 45%;
+    font-weight: 700 !important;
+    color: #c79d6a !important;
+}
+.header img {
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#back-to-top-btn {
+    display: none;
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+    padding: 10px;
+    background-color: #976413;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 9999;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.section-padding {
+    padding: 4rem 0; /* Default padding for larger screens */
+}
+
+.owl-prev, .owl-next {
+    position: absolute;
+    top: 43%;
+    bottom: auto;
+    color: #ffffff;
+}
+.owl-prev span, .owl-next span {
+    font-size: 85px;
+    color: #ffffff;
+}
+
+.owl-prev{
+    left: -30px;
+    right: auto;
+}
+.owl-next{
+    left: auto;
+    right: -30px;
+}
+
+
+/* Media query for screens smaller than 768px (mobile devices) */
+@media (max-width: 767px) {
+    .section-padding {padding: 2rem 0; /* Adjusted padding for mobile screens */}
+    .testimonial-block .inner-box{background-color: #e9ecef !important;}
+}
+.content-area {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-image: url("https://www.knksalon.in/assets/images/bg/get-in-touch.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.shop-account .form-control {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.05);
+    font-size: 14px;
+    height: 50px;
+    padding: 0 20px;
+}
+.shop-account .form-group {
+    margin-bottom: 15px;
+}
+.shop-account .border-1 {
+    border-color: #dfdfdf;
+}
+.tab-content {
+    padding: 20px;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 12px;
+}
+.shop-account label {
+    font-weight: 600;
+    margin-bottom: 3px !important;
+    color: #fff;
+}
+button.btn.dropdown-toggle.active {
+    color: #d2c0ac !important;
+}
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #d2c0ac;
+}
+@media only screen and (max-width: 767px) {
+    #p-50, .p-50 {
+        padding: 20px 0px !important;
+    }
+    .py-5{
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    .about-acadmey {
+    padding: 20px 0px;
+}
+    .p-5{padding:20px !important}
+    p{margin-bottom: 0 !important;}
+    .navbar {
+        background-color: #222 !important;
+    }
+    .mt-5{margin-top: 20px !important;}
+    .mb-5{margin-bottom: 20px !important;}
+    #main {
+        margin-top: 84px;
+    }
+    .appointment-area {
+        padding: 15px !important;
+    }
+    .tab .tab-content {
+        padding: 25px 20px;
+    }
+    .btn-warning {
+        width: 110px;
+        z-index: 999;
+        top: 1.5%;
+        text-align: center;
+        left: 40%;
+        font-weight: 700 !important;
+        color: #c79d6a !important;
+    }
+   
+    .navbar-light .navbar-toggler {
+        background: #f1c080;
+    }
+    footer#footer ul{
+        padding: 0 !important;
+    }
+    footer#footer h2{
+        padding: 0 !important;
+        margin-top: 15px !important;
+        margin-bottom: 0 !important;
+    }
+    .acadmey-list ul{
+        padding-left: 15px !important;
+    }
+    .acadmey-list ul li{
+        padding: 0;
+        padding-bottom: 8px !important;
+    }
+
+}

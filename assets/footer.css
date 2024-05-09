@@ -1,0 +1,37 @@
+
+
+#footer {width: 100%;padding: 50px 0px;background:#262626;}
+
+#footer h2 {color: #d2c0ac;font-size: 25px;}
+
+#footer p {color: #fff;font-size: 16px;padding: 20px 0px;}
+
+#footer ul {
+    text-emphasis: none;
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+    line-height: 35px;
+    list-style-type: none;
+    padding-left: 0rem;
+    padding-top: 0px;
+}
+.border-share li i {border: 1px solid #f1c080;}
+
+ .ul-contact li i
+{
+    padding: 7px;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    color: #f1c080;
+}
+
+
+#footer .logo  {width: 100px;}
+#footer img.icon{width: 32px !important;}
+#footer a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px !important;
+}
